@@ -21,3 +21,8 @@ A very simple age save and delete app.
 
 ### - Storing Age
 ![storingAge](https://github.com/aydozy/KotlinStoringData/assets/104395137/836fb3f5-675b-4b96-9459-f3508ff8e592)
+
+## App Video
+https://github.com/aydozy/KotlinStoringData/assets/104395137/884ecfe9-cfad-4c76-9462-1fca8481c16f
+
+
